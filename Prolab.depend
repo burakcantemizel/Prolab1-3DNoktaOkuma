@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1571726810 source:e:\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<math.h>
+
+1571962079 source:e:\yepyeni prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<math.h>
+
+1572004657 source:e:\prolabteslim\kaynak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<math.h>
+
+1572022720 source:e:\kaynak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<math.h>
+
+1572125646 source:e:\kaynak - kopya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<math.h>
+
+1572358075 source:e:\prolabteslim\3dnoktaokumakaynak\3dnoktaokumakaynak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<math.h>
+
