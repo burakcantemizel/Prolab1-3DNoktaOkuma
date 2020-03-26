@@ -14,9 +14,9 @@
 </HEAD>
 <BODY LANG="en-US" TEXT="#000000" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in; line-height: 100%">
-<FONT SIZE=6>Programlama Laboratuvarı Raporu</FONT></P>
+<FONT SIZE=18>Programlama Laboratuvarı Raporu</FONT></P>
 <P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in; line-height: 100%">
-<FONT SIZE=6>3D Nokta Okuma</FONT></P>
+<FONT SIZE=16>3D Nokta Okuma</FONT></P>
 <P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.07in; margin-bottom: 0.07in; line-height: 50%">
 <BR><BR>
 </P>
