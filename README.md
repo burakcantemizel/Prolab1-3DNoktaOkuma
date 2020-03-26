@@ -173,8 +173,8 @@
 	modellerini görselleştirdik. Böylece kendi programımızdaki
 	sonuçlarımızın doğruluğunu teyit etmiş olduk.      </SPAN></FONT>
 	</P>
-	<P LANG="tr-TR" CLASS="western" STYLE="text-indent: 0in"><IMG SRC="2f8650d75f15fc2c924edfbaa8dadbff_html_3fdb81a.png" NAME="graphics1" ALIGN=BOTTOM WIDTH=324 HEIGHT=191 BORDER=0></P>
-	<P LANG="tr-TR" CLASS="western" STYLE="text-indent: 0in"><IMG SRC="2f8650d75f15fc2c924edfbaa8dadbff_html_d96f27a8.png" NAME="graphics2" ALIGN=BOTTOM WIDTH=325 HEIGHT=189 BORDER=0></P>
+	<P LANG="tr-TR" CLASS="western" STYLE="text-indent: 0in"><IMG SRC="http://burakcantemizel.com/resimler/3dn2.png" NAME="graphics1" ALIGN=BOTTOM  BORDER=0></P>
+	<P LANG="tr-TR" CLASS="western" STYLE="text-indent: 0in"><IMG SRC="http://burakcantemizel.com/resimler/3dn4.png" NAME="graphics2" ALIGN=BOTTOM  BORDER=0></P>
 	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.17in; margin-bottom: 0.17in; line-height: 90%">
 	<FONT FACE="Symbol, serif"><FONT FACE="Times New Roman, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><I>Kullandığımız
 	matematiksel modellemelerin görselleştirilmesi</I></FONT></FONT></FONT></P>
@@ -198,7 +198,7 @@
 	<BR>
 	</P>
 	<P LANG="tr-TR" CLASS="western" ALIGN=JUSTIFY STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<IMG SRC="2f8650d75f15fc2c924edfbaa8dadbff_html_315baed5.png" NAME="graphics3" ALIGN=BOTTOM WIDTH=324 HEIGHT=161 BORDER=0></P>
+	<IMG SRC="http://burakcantemizel.com/resimler/3dn1.png" NAME="graphics3" ALIGN=BOTTOM  BORDER=0></P>
 	<P LANG="tr-TR" CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<BR>
 	</P>
@@ -323,7 +323,7 @@
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
 	<FONT SIZE=4><B>Programın Genel Akış Şeması</B></FONT></P>
 	<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in; margin-bottom: 0in; line-height: 100%">
-	<IMG SRC="2f8650d75f15fc2c924edfbaa8dadbff_html_6e042a70.png" NAME="graphics4" ALIGN=BOTTOM WIDTH=674 HEIGHT=585 BORDER=0></P>
+	<IMG SRC="http://burakcantemizel.com/resimler/3dn3.png" NAME="graphics4" ALIGN=BOTTOM WIDTH=674 HEIGHT=585 BORDER=0></P>
 </DIV>
 <DIV TYPE=FOOTER>
 	<P ALIGN=CENTER STYLE="text-indent: 0in; margin-top: 0.46in; margin-bottom: 0in; line-height: 100%">
